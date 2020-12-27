@@ -8,6 +8,7 @@
  * Alexander
  * Töpfer 2020
  * Inspired by one of my favourite youtube channels https://www.youtube.com/watch?v=_gCKX6VMvmU
+ * Original Paper https://arxiv.org/pdf/2010.15882.pdf 
  */
 #include <boost/math/special_functions/pow.hpp>
 #include <boost/multiprecision/cpp_dec_float.hpp>
